@@ -1,0 +1,14 @@
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\bin\Debug\net6.0\CountdownTimer.exe
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\bin\Debug\net6.0\CountdownTimer.deps.json
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\bin\Debug\net6.0\CountdownTimer.runtimeconfig.json
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\bin\Debug\net6.0\CountdownTimer.dll
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\bin\Debug\net6.0\CountdownTimer.pdb
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\obj\Debug\net6.0\CountdownTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\obj\Debug\net6.0\CountdownTimer.AssemblyInfoInputs.cache
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\obj\Debug\net6.0\CountdownTimer.AssemblyInfo.cs
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\obj\Debug\net6.0\CountdownTimer.csproj.CoreCompileInputs.cache
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\obj\Debug\net6.0\CountdownTimer.dll
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\obj\Debug\net6.0\refint\CountdownTimer.dll
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\obj\Debug\net6.0\CountdownTimer.pdb
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\obj\Debug\net6.0\CountdownTimer.genruntimeconfig.cache
+C:\Users\sp\Desktop\CountdownTimer\CountdownTimer\obj\Debug\net6.0\ref\CountdownTimer.dll
